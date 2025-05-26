@@ -23,4 +23,5 @@ async function writeAndReadFile() {
     }
 }
 
+
 writeAndReadFile();
