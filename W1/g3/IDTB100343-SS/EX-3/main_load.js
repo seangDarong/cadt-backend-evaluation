@@ -7,4 +7,5 @@ const raceResultService = new RaceResultsService();
 raceResultService.loadFromFile("./race-scores/data/raceScores.json");
 
 // Print the resuts
+
 console.log(raceResultService.raceResults);
